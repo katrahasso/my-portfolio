@@ -1,0 +1,23 @@
+header{
+    background-color: gold;
+    padding: 20px 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    color: white;
+}
+.li{
+    color: #ff9004;
+
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    color: white;
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
