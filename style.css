@@ -43,3 +43,111 @@ body{
     margin: 0;
     padding: 0;
 }
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card h2 {
+    color: #333;
+}
+
+.card p {
+    color: #666;
+}
+
+p {
+    font-size: 18px;
+    color: #444;
+}
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.123);
+    text-align: center;
+}
+
+.card h2 {
+    color: white;
+}
+
+.card p {
+    color: #666;
+}
+
+p {
+    font-size: 18px;
+    color: #444;
+}
+
+
+.about-katra {
+    padding: 20px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+    margin-top: 40px;
+}
+.about-katra p{
+    font-size: 16px;
+    line-height: 3;
+    color: black;
+}
+.education {
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+    margin-top: 40px;
+}
+.education {
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
