@@ -85,6 +85,7 @@ section {
     padding: 20px;
     text-align: center;
     color: white;
+    background-color: #ff9004;
 }
 
 .card-container {
@@ -142,6 +143,41 @@ p {
     margin-top: 40px;
     text-align: center;
 }
+.contact {
+    padding: 0px;
+    background-color: aqua;
+    border-radius: 8px;
+    margin-top: 4px;
+    display: flex;
+    flex-direction:column;
+}
+
+
+.comtact h2 {
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 10px;
+}
+.contact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+.contact-info {
+    font-size: 16px;
+    color: #f0ff;
+}
+.contact{
+    width: 100%;
+}
+
+
+
+
+
+
 
 
 
